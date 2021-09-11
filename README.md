@@ -1,0 +1,2 @@
+# Analog_Clock
+This Analog Clock is designed purely with HTML, CSS and JavaScript. HTML is used for creating the basic structure of the webpage, linking to an external CSS sheet and JavaScript file. With the help of CSS, all the style and formatting of the clock and hours, minute and second hand are done. Javascript consists of the main logic behind rotation of the hands using the transform: rotate() property. 
